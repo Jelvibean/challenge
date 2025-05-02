@@ -19,7 +19,7 @@ The application has two different ways to offer the data
 
 2. appWithSSRData: TBD - Stopped to go and set up the readme and the other pieces to the project. I would need more time to figure this part out :(
 
-#What Bells and Whistle the App has currently.
+# What Bells and Whistle the App has currently.
 
 1. I added prettier which automatically formats all supported files in your project
    Its set to rewrites the files with the properly formatted code, fixing indentation, line breaks, and other formatting issues.
