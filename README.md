@@ -27,7 +27,7 @@ The application has two different ways to offer the data
 
 3. Added a .gitignore file to make sure we dont push unnecessary files to the repo that get generated with an npm install when user starts the project. This helps keep blot from commits.
 
-# Personal Note to Manager and Team :)
+# Personal Note and Future Thinking :)
 
 I come from a Nextjs/React background so honestly I had to take time to understand how this more vanilla project was set up. I may have spent some more alloted time trying to piece it all together.
 
