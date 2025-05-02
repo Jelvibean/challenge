@@ -21,7 +21,7 @@ The application has two different ways to offer the data
 # Bells and Whistles the App has currently.
 
 1. I added 'prettier' which automatically formats all supported files in your project.
-   It's set to rewrites the files with to properly formatted code, fixing indentation, line breaks, and other formatting issues.
+   It's set to rewrite the files with properly formatted code, fixing indentation, line breaks, and other formatting issues.
 
 2. Added 'Linting' to automatically analyzing your code to identify potential errors, stylistic issues, and code quality problems.
 
@@ -31,14 +31,15 @@ The application has two different ways to offer the data
 
 I come from a Nextjs/React background so honestly I had to take time to understand how this more vanilla project was set up. I may have spent some more alloted time trying to piece it all together.
 
-If I was setting this up for the long use, I would consider installing either Nextjs or using Redux. I guess depending on the need of the project, With collaboration of the team, we would decid which is best.
+If I was setting this up for the long use, I would consider installing either Nextjs or using Redux. I guess depending on the need of the project, With collaboration of the team, we would decide which is best.
 
 I would consider nextjs because that is where I am comfortable, but not only that, Nextjs provides you a number of areas that would make developing easier for the following reasons:
--Server-Side Rendering (SSR)
--Static Site Generation (SSG)
--Routing out of the box
--API routes
--Better SEO and performance (if this is needed for seo raning.)
+
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Routing out of the box
+- API routes
+- Better SEO and performance (if this is needed for seo raning.)
 
 This project may be a good candidate for that.
 
