@@ -57,7 +57,7 @@ As the project grows I would consider some important features to add as the foll
 - Add ability for your unit test to run at the build command.
 - If team prefers using yarn, I would install the yarn abilities. I believe there is backing to it being the better choice.
 
-I am sure there is more but these are the ones I know from outside of Next and what I have the opportunity to have experience in.
+I am sure there is plenty more with more brainstorming. But these are the ones I have most been exposed to.
 
 Overall I hope this gives you a picture of my thinking.
 Thank you for reviewing!!!
