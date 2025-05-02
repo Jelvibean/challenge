@@ -14,7 +14,7 @@ This is a simple project in React that displays a list of people. The app is usi
 The application has two different ways to offer the data
 
 1. appWithoutSSRData: Displays a list of people fetched from the API using the useCachingFetch, a custom hook I created. This route will load data in the browser and will only make one call.
-   Mostly spent my time buiding the fetch and making sure it functioned!!
+   Mostly spent my time building the fetch and making sure it functioned!!
 
 2. appWithSSRData: TBD - Stopped to go and set up the readme and the other pieces to the project. I would need more time to figure this part out :(
 
