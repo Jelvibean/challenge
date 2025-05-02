@@ -1,7 +1,6 @@
 # Caching Fetching Library
 
-This is a simple project in React that is displays a list of people.
-The app is using a simple in-memory cache based on JavaScript’s built-in Map object. It's a lightweight, custom caching solution — not a library
+This is a simple project in React that displays a list of people. The app is using a simple in-memory cache based on JavaScript’s built-in Map object. It's a lightweight, custom caching solution — not a library.
 
 # How to Install
 
@@ -53,6 +52,8 @@ As the project grows I would consider some important features to add as the foll
 - Depending on what library we are considering I would install bootstrap or Tailwind for our UI side of the app. Or we may have a custom inhouse library instead.
 - Install SASS for our CSS pieces.
 - If we use Redux, looking into Toolkit Query would be an option.
+- Eventually build check: Run your build script (e.g., npm run build) to ensure there are no errors
+- Add ability for your unit test to run at the build command.
 
 I am sure there is more but these are the ones I know from outside of Next and what I have the opportunity to have experience in.
 
