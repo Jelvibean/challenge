@@ -6,7 +6,7 @@ The app is using a simple in-memory cache based on JavaScript’s built-in Map o
 # How to Install
 
 1. Clone the repository
-2. Run npm install -> to install all your node_modules and you dependencies.
+2. Run npm install -> to install all your node_modules and your dependencies.
 3. Run npm start to run it locally.
 4. Visit http://localhost:3000
 
@@ -15,8 +15,16 @@ The app is using a simple in-memory cache based on JavaScript’s built-in Map o
 The application has two different ways to offer the data
 
 1. appWithoutSSRData: Displays a list of people fetched from the API using the useCachingFetch, a custom hook I created. This route will load data in the browser and will only make one call.
+   Mostly spent my time buiding the fetch and making sure it functioned!!
 
 2. appWithSSRData: TBD - Stopped to go and set up the readme and the other pieces to the project. I would need more time to figure this part out :(
+
+#What Bells and Whistle the App has currently.
+
+1. I added prettier which automatically formats all supported files in your project
+   Its set to rewrites the files with the properly formatted code, fixing indentation, line breaks, and other formatting issues.
+
+2. Added Linting to automatically analyzing your code to identify potential errors, stylistic issues, and code quality problems.
 
 # Personal Note to Manager and Team :)
 
