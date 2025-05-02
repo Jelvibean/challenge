@@ -24,7 +24,7 @@ I come from a Nextjs/React background so honestly I had to take time to understa
 
 If I was setting this up for the long use, I would consider installing either Nextjs or using Redux. I guess depending on the need of the project I would decided which is best.
 
-I would honestly favor nextjs becasue that is where I am comfortable, but not only that, Nextjs provides you a number of areas that would be easier since they offer:
+I would consider nextjs because that is where I am comfortable, but not only that, Nextjs provides you a number of areas that would make developing easier for the following reasons:
 -Server-Side Rendering (SSR)
 -Static Site Generation (SSG)
 -Routing out of the box
@@ -35,12 +35,16 @@ This project may be a good candidate for that.
 
 If my focus was more state management and not whole application utitilites as noted above then, redux toolkit may be a better choice.
 
-I would like to see in the long term,
+As the project grows I would consider some important features to add as the following:
 
 - Installing Jest and running unit test for each react component.
 - We could install Playwriting for end-to-end testing (I personally have not done playwriting testing but my team had assign members to do this part.)
 - I would add Stylelint to our app and have it run at the build as well to also check our CSS side of the app.
 - Depending on what library we are considering I would install bootstrap or Tailwind for our UI side of the app. Or we may have a custom inhouse library instead.
 - Install SASS for our CSS pieces.
+- If we use Redux, looking into Toolkit Query would be an option.
 
-I am sure there is more but these are the ones I know from outside of Next.
+I am sure there is more but these are the ones I know from outside of Next and what I have the opportunity to have experience in.
+
+Overall I hope this gives you a picture of my thinking.
+Thank you for reviewing!!!
