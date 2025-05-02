@@ -1,0 +1,46 @@
+# Caching Fetching Library
+
+This is a simple project in React that is displays a list of people.
+The app is using a simple in-memory cache based on JavaScript’s built-in Map object. It's a lightweight, custom caching solution — not a library
+
+# How to Install
+
+1. Clone the repository
+2. Run npm install -> to install all your node_modules and you dependencies.
+3. Run npm start to run it locally.
+4. Visit http://localhost:3000
+
+# What the application offers:
+
+The application has two different ways to offer the data
+
+1. appWithoutSSRData: Displays a list of people fetched from the API using the useCachingFetch, a custom hook I created. This route will load data in the browser and will only make and will only make one call.
+
+2. appWithSSRData: TBD - Stopped to go and set up the readme and the other pieces to the project.
+
+# Personal Note to Manager and Team :)
+
+I come from a Nextjs/React background so honestly I had to take time to understand how this more vanilla project was set up. I may have spent some more alloted time trying to piece it all together.
+
+If I was setting this up for the long use, I would consider installing either Nextjs or using Redux. I guess depending on the need of the project I would decided which is best.
+
+I would honestly favor nextjs becasue that is where I am comfortable, but not only that, Nextjs provides you a number of areas that would be easier since they offer:
+-Server-Side Rendering (SSR)
+-Static Site Generation (SSG)
+-Routing out of the box
+-API routes
+-Better SEO and performance
+
+This project may be a good candidate for that.
+
+If my focus was more state management and not whole application utitilites as noted above then, redux toolkit may be a better choice.
+
+I would like to see in the long term,
+
+- Installing Jest and running unit test for each react component.
+- We could install Playwriting for end-to-end testing (I personally have not done playwriting testing but my team had assign members to do this part.)
+- I would add Stylelint to our app and have it run at the build as well to also check our CSS side of the app.
+- Depending on what library we are considering I would install bootstrap or Tailwind for our UI side of the app. Or we may have a custom inhouse library instead.
+- Install SASS for our CSS pieces.
+
+I am sure there is more but these are the ones I know from outside of Next.

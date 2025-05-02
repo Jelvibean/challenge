@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+npm-debug.log*
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+#production
+/build
+
+# Environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
