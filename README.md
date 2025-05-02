@@ -54,7 +54,7 @@ As the project grows I would consider some important features to add as the foll
 - Install SASS for our CSS pieces.
 - If we use Redux, looking into Toolkit Query would be an option.
 - Eventually build check: Run your build script (e.g., npm run build) to ensure there are no errors
-- Add ability for your unit test to run at the build command.
+- Add ability for your unit test to run at the build command. This way you have a summary of your past/failed tests before committing to the repo.
 - If team prefers using yarn, I would install the yarn abilities. I believe there is backing to it being the better choice.
 
 I am sure there is plenty more with more brainstorming. But these are the ones I have most been exposed to.
